@@ -41,9 +41,9 @@ For the values of ECG signal passed to the system -> Filtered signal values that
 
             ~FIR filters are digital filters with finite impulse response.
             
-            ~They are also known as non-recursive digital filters because of 
-            their inherent stability when implement in non-recursive form, 
-            the ease with which one can attain linear phase and more stable which cant be achieved in IIR filter.
+            ~They are also known as non-recursive digital filters because of their
+            inherent stability when implement in non-recursive form, the ease with 
+            which one can attain linear phase and more stable which cant be achieved in IIR filter.
             
             ~This filter doesn’t depend on past samples of input along with past output like the IIR filter.
             
