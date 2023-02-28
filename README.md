@@ -1,7 +1,7 @@
 # ecg_filter_using_FIR_filter
 # Abstract :
     Noise reduction in ECG signal using Finite Impulse Response(FIR) filter
-             ~The electrocardiogram (ECG) signal is non-stationary
+             The electrocardiogram (ECG) signal is non-stationary
              electrical signals from the heart characteristically 
              precede the normal mechanical function and monitoring
              of these signals has great clinical significance.
