@@ -1,4 +1,4 @@
-# ecg_filter_using_FIR_filter
+# ECG-Noise-filter
 # Abstract :
     Noise reduction in ECG signal using Finite Impulse Response(FIR) filter
              ~The electrocardiogram (ECG) signal is non-stationary
